@@ -1,0 +1,25 @@
+nav {
+  background-color: lightcyan;
+}
+#about {
+  background-color: lightcyan;
+}
+#team {
+  background-color: #4f4f4f;
+}
+body {
+  background-color: lightcyan;
+}
+#animals {
+  background-color: lightcyan;
+}
+#favorite {
+  background-color: #4f4f4f;
+}
+#quiz {
+  background-color: lightcyan;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
