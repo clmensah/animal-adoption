@@ -19,7 +19,7 @@ No starter code was used.
 All code used can be found in this github directory.
 
 Authors:
-Stephanie W. (58194)
+Stephanie W. (sjw58194)
 Brandon R. (br66190)
-Ella J. (97591)
+Ella J. (erj97591)
 Larraine M. 
