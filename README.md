@@ -16,3 +16,9 @@ This website uses bootstrap as an outside frameworks.
 No starter code was used.
 
 All code used can be found in this github directory.
+
+Authors:
+Stephanie T.
+Brandon
+Ella J.
+Larraine M.
