@@ -5,7 +5,7 @@
 <html lang="en">
 
 <head>
-    <link rel="tab icon" href="images/logoIcon.png" type="image/ico">
+    <link rel="tab icon" href="res/logoIcon.png" type="image/ico">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -102,7 +102,6 @@
 						<p class="lead">Gender: <?php echo $animal['gender']?></p>
 						<p class="lead">Age: <?php echo $animal['age']?></p>
 						<p class="lead">Size: <?php echo $animal['size']?></p>
-						<p class="lead">Gender: <?php echo $animal['description']?></p>
 						<?php if (in_array($animal['animalID'], $favs)): ?>
 							<a href="removeFavorite.php?animal_id=<?php echo $animal['animalID']?>" class="btn btn-outline-secondary">Remove Favorite</a>
 						<?php else: ?>	

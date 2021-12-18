@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="tab icon" href="images/logoIcon.png" type="image/ico">
+    <link rel="tab icon" href="res/logoIcon.png" type="image/ico">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="style.css">
@@ -28,14 +28,14 @@
                         <div class="card ">
                             <h5 class="card-header text-center">Angel</h5>
                             <div class="card-body">
-                                <img src="images/angel.jpeg" alt="" class="card-img-top rounded">
+                                <img src="res/angel.jpeg" alt="" class="card-img-top rounded">
                                 <p class="lead text-center">This cute puppy is Angel</p>
                             </div>
                         </div>
                     </div>
                     <div class="aboutUs col-md-6 align-self-center" style="padding-left:50px">
                         <div class="row">
-                            <img src="images/logo.png" alt="" class="card-img-top rounded">
+                            <img src="res/logo.png" alt="" class="card-img-top rounded">
                             <h1>Who We Are</h1>
                             <p class="lead text-center">Our goal is to find loving homes for all of our beautiful pets.</p>
                             <p class="lead text-center">We do our best to provide an accurate portrayal of all our pets, but we highly encourage everyone come by and meet the animals before making a decision to bring any pet into your home.</p>
